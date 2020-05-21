@@ -4,7 +4,7 @@ class ScrapingController < ApplicationController
     scraping
   end
 
-  def scraping
+  def scraping(first_page,next_page)
     #ブラウザの立ち上げ
     agent = Mechanize.new
     #webサイトにアクセスするためのプログラムを指定する

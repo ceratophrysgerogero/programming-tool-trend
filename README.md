@@ -1,24 +1,20 @@
-# README
+#要件定義
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[目的]
+現在の日本における言語やフレームワークの求人数を知り需要度を把握する
 
-Things you may want to cover:
+[制作するもの]
+複数の求人サイトから求人数を表示する
 
-* Ruby version
+[制作物]
+* 主な機能
+ * 表示させたい言語と検索したい求人サイトを選択するとその情報を元に表が表示される。
 
-* System dependencies
+[制作利用者]
+* 一般利用者
 
-* Configuration
+[制作物の需要]
+* これから転職や就職、キャリアを考えた時に参考になる
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[作成するための構成]
+* 個人開発
